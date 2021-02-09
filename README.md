@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About Me
-Hi I’m Fil, a web developer. 2012 I graduated from study of Computer Science a Bachelors Degree so I have a basic understanding of the computer theory, language and algorithms. Over the years I worked as a web developer rather than being a computer scientist which gives me a solid experience working with php and other web technologies.
+Hi I’m Fil, a web developer. I graduated from study of Computer Science a Bachelors Degree so I have a basic understanding of the computer theory, language and algorithms. Over the years I worked as a web developer rather than being a computer scientist which gives me a solid experience working with php and other web technologies.
 
 I love working with Php, Javascript. 
 
