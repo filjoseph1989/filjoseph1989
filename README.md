@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 ### About Me
-Hi I’m Fil, a web developer. I graduated from study of Computer Science a Bachelors Degree so I have a basic understanding of the computer theory, language and algorithms. Over the years I worked as a web developer rather than being a computer scientist which gives me a solid experience working with php and other web technologies.
+
+Experienced PHP programmer with 10+ years of experience developing and contributing to the maintenance of complex web applications using PHP, JavaScript, and a range of frameworks including WordPress, CodeIgniter, Laravel, and ReactJS. Skilled in creating efficient, scalable, and maintainable code for a variety of applications. Possess a Bachelor's degree in Computer Science and a passion for keeping up with the latest industry trends and technologies.
 
 I love working with Php, Javascript. 
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/filjoseph) || filjoseph22@gmail.com
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/filjoseph)
+- Github: [GitHub](https://filjoseph1989.github.io)
 
 <!--
 ### Deployed Projects
